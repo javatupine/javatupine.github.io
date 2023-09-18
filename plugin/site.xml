@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/edu.stanford.cs106feature_4.0.1.jar" id="edu.stanford.cs106feature" version="4.0.1">
+      <category name="edu.stanford"/>
+   </feature>
+   <category-def name="edu.stanford" label="Stanford">
+      <description>
+         Stanford-specific Eclipse plugins
+      </description>
+   </category-def>
+</site>
